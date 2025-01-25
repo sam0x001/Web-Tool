@@ -1,0 +1,6 @@
+requests
+colorama
+socket
+builtwith
+pythonping
+dns
