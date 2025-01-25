@@ -31,6 +31,6 @@ Enjoy using it :)
 
 ## Social
 You can follow me on:
-- <a href="https://instagram.com/sam0x001"> Instagram </a>
-- <a href="https://x.com/sam00x01"> X (Twitter) </a>
-- <a href="mailto:saminium@duck.com"> Send me an Email </a>
+- <a href="https://instagram.com/sam0x001" target="_blank"> Instagram </a>
+- <a href="https://x.com/sam00x01" target="_blank"> X (Twitter) </a>
+- <a href="mailto:saminium@duck.com" target="_blank"> Send me an Email </a>
